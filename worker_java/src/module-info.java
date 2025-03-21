@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module worker_java {
-}
